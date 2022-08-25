@@ -68,6 +68,7 @@ def send_transaction(w3, account, to, wage):
 
     # Sign the raw transaction with ethereum account
     signed_tx = account.signTransaction(raw_tx)
-
+    
     # Send the signed transactions
     return w3.eth.sendRawTransaction(signed_tx.rawTransaction)
+    
