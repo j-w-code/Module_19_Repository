@@ -6,7 +6,7 @@ This project covers the usage of Python, Streamlit, Blockchain, and Ganache test
 >"When I came up with Ethereum, my first first thought was, 'Okay, this thing is too good to be true.' Vitalik Buterin"
 
 ## Technologies 
-This project uses Python, Streamlit, web3, and Ganache libraries to generate web UI front ends, and write transaction to a test block chain. 
+This project uses Python, Streamlit, web3, and Ganache libraries to generate web UI front ends, and write transactions to a test block chain. 
 
 [Python](https://github.com/python)
 [Streamlit](https://github.com/streamlit)
@@ -15,7 +15,7 @@ This project uses Python, Streamlit, web3, and Ganache libraries to generate web
 
 ### Installation Guide
 
-In order to use this program please import and utilie the following libraries and dependencies: 
+In order to use this program please import and utilize the following libraries and dependencies: 
 
 ```python
 import streamlit as st
